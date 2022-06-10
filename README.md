@@ -7,6 +7,7 @@
 - 📫 How to reach me: <a href="mailto:BADimov21@codingburgas.bg"> My Working Email </a>
 - 😄 Pronouns: He/Him
 - ⚡ Goals: I want to become a professional programmer and web designer.
+- 😀 Status: Patience, patience is the key!
 
 Professional Certificates:
 MS Office Specialist (Word 2016)
