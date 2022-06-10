@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1> Hi there, I'm Bozhidar, and here are some things about me: 👋 </h1>
 
-<!--
-**BADimov21/BADimov21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Student at <a href="https://www.codingburgas.bg/"> @codingburgas </a>
+- 🌱 I’m currently learning C++, HTML, CSS, coding and web design in general, will start with JavaScript soon.
+- 💬 You can ask me everything, I'll be glad to share!
+- 👯 My hobbies are coding, web design, video games, board games and astronomy.
+- 📫 How to reach me: <a href="mailto:BADimov21@codingburgas.bg" My Working Email </a>
+- 😄 Pronouns: He/Him
+- ⚡ Goals: I want to become a professional programmer and web designer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Professional Certificates:
+MS Office Specialist (Word 2016)
