@@ -9,5 +9,5 @@
 - ⚡ Goals: I want to become a professional programmer and web designer.
 - 😀 Status: Patience, patience is the key!
 
-Professional Certificates:
+Professional Certificates: <br>
 MS Office Specialist (Word 2016)
