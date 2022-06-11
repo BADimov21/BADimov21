@@ -14,7 +14,7 @@ MS Office Specialist (Word 2016)
 <a href="https://www.credly.com/badges/f1f770a9-323f-4181-b5bc-7b5f38abc063" > <img src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" height="30" weight="30"> </a>
 
 <details>
-       <summary><h1>Coding and Web Designing Languages Languages:</h1></summary>
+       <summary><h1>Coding and Web Designing Languages:</h1></summary>
        <a href="https://en.wikipedia.org/wiki/C%2B%2B" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" height="50" weight="50"> </a>
        <a href="https://en.wikipedia.org/wiki/HTML5" > <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" height="50" weight="50"> </a>
        <a href="https://en.wikipedia.org/wiki/CSS" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" height="50" weight="50">
