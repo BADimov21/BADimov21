@@ -33,5 +33,4 @@
         <a href="https://bg.wikipedia.org/wiki/Microsoft_Office" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/150px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" height="75" weight="75">
 </details>
         <h1>Contact Me:</h1>
-  <a href="https://discordapp.com/users/Bokata_96#8453"> <img src="https://icon-library.com/images/transparent-discord-icon/transparent-discord-icon-10.jpg" height="75" weight="75"> </a> <br>
-              Bokata_96#8453
+  <a href="https://www.linkedin.com/in/bozhidar-dimov-a5b31223a"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" height="75" weight="75"> </a> <br>
