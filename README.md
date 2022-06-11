@@ -1,4 +1,4 @@
-<h1> Hi there 👋, I'm Bozhidar, and here are some things about me: </h1>
+<center><h1> Hi there 👋, I'm Bozhidar, and here are some things about me: </h1></center>
 
 - 🔭 Student at <a href="https://www.codingburgas.bg/"> @codingburgas </a>
 - 🌱 I’m currently learning C++, HTML, CSS, coding and web design in general, will start with JavaScript soon.
@@ -33,5 +33,5 @@
         <a href="https://bg.wikipedia.org/wiki/Microsoft_Office" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/150px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" height="75" weight="75">
 </details>
         <h1>Contact Me:</h1>
-  <a href="https://discordapp.com/users/Bokata_96#8453" > <img src="https://icon-library.com/images/transparent-discord-icon/transparent-discord-icon-10.jpg" height="75" weight="75"> </a> <br>
+  <a style="left:1%;"href="https://discordapp.com/users/Bokata_96#8453"> <img src="https://icon-library.com/images/transparent-discord-icon/transparent-discord-icon-10.jpg" height="75" weight="75"> </a> <br>
               Bokata_96#8453
