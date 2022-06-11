@@ -10,19 +10,19 @@
 - 😀 Status: Patience, patience is the key!
 
 <details>
-       <summary><h1>💼Professional Certificates:</h1></summary>
+       <summary><h1>💼My Professional Certificates:</h1></summary>
        <a href="https://www.credly.com/badges/f1f770a9-323f-4181-b5bc-7b5f38abc063" > <img src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" height="200" weight="200"> </a>
 </details>
        
 <details>
-       <summary><h1>👨‍💻Coding and Web Designing Languages:</h1></summary>
+       <summary><h1>👨‍💻Coding and Web Designing Languages which I have learnt:</h1></summary>
        <a href="https://en.wikipedia.org/wiki/C%2B%2B" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" height="75" weight="75"> </a>
        <a href="https://en.wikipedia.org/wiki/HTML5" > <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" height="75" weight="75"> </a>
        <a href="https://en.wikipedia.org/wiki/CSS" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" height="75" weight="75">
 </details>
        
 <details>
-       <summary><h1>🛠️Tools:</h1></summary>
+       <summary><h1>🛠️Tools which I use:</h1></summary>
        <a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" height="75" weight="75">
        <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" ><img src="https://github.com/YVSimeonova19/YVSimeonova19/blob/master/images/vscode.png?raw=true" height="75" weight="75">
        <a href="https://en.wikipedia.org/wiki/Replit" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/330px-Repl.it_logo.svg.png" height="75" weight="75">
