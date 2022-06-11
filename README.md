@@ -32,3 +32,5 @@
        <a href="https://bg.wikipedia.org/wiki/Microsoft_PowerPoint" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/98px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" height="75" weight="75">
         <a href="https://bg.wikipedia.org/wiki/Microsoft_Office" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/150px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" height="75" weight="75">
 </details>
+        <h1>Contact Me:</h1>
+  <a href="https://discordapp.com/users/701129144397725786" > <img src="https://assets.mofoprod.net/network/images/discord.original.jpg" height="50" weight="50"> </a>
