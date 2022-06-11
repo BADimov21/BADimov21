@@ -13,7 +13,7 @@
 MS Office Specialist (Word 2016)
 
 <h1>Languages and Tools:</h1>
-       <a href="https://en.wikipedia.org/wiki/C%2B%2B" > <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-plain.svg" height="50" weight="50"> </a>
+       <a href="https://en.wikipedia.org/wiki/C%2B%2B" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" height="50" weight="50"> </a>
        <a href="https://en.wikipedia.org/wiki/HTML5" > <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" height="50" weight="50"> </a>
        <a href="https://en.wikipedia.org/wiki/CSS" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" height="50" weight="50">
        <a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" height="50" weight="50">
