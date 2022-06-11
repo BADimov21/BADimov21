@@ -21,3 +21,4 @@ MS Office Specialist (Word 2016)
        <a href="https://en.wikipedia.org/wiki/Replit" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/330px-Repl.it_logo.svg.png" height="50" weight="50">
        <a href="https://en.wikipedia.org/wiki/GitHub" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" height="50" weight="50">
        <a href="https://en.wikipedia.org/wiki/Git" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="50" weight="50">
+       <a href="https://bg.wikipedia.org/wiki/Microsoft_Word" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/98px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" height="50" weight="50">
