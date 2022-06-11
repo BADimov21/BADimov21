@@ -19,5 +19,5 @@ MS Office Specialist (Word 2016)
        <a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" height="50" weight="50">
        <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" ><img src="https://github.com/YVSimeonova19/YVSimeonova19/blob/master/images/vscode.png?raw=true" height="50" weight="50">
        <a href="https://en.wikipedia.org/wiki/Replit" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/330px-Repl.it_logo.svg.png" height="50" weight="50">
-       <a href="https://en.wikipedia.org/wiki/Git" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="50" weight="50">
        <a href="https://en.wikipedia.org/wiki/GitHub" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" height="50" weight="50">
+       <a href="https://en.wikipedia.org/wiki/Git" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="50" weight="50">
