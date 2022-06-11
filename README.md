@@ -10,7 +10,7 @@
 - 😀 Status: Patience, patience is the key!
 
 💼 Professional Certificates: <br>
-MS Office Specialist (Word 2016) 
+MS Office Specialist (Word 2016) <br>
 Proof: <a href="https://www.credly.com/badges/f1f770a9-323f-4181-b5bc-7b5f38abc063" > <img src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" height="50" weight="50"> </a>
 
 <h1>Languages and Tools:</h1>
