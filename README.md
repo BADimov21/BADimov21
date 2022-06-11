@@ -9,10 +9,11 @@
 - ⚡ Goals: I want to become a professional programmer and web designer.
 - 😀 Status: Patience, patience is the key!
 
-💼 Professional Certificates: <br>
-MS Office Specialist (Word 2016)
-<a href="https://www.credly.com/badges/f1f770a9-323f-4181-b5bc-7b5f38abc063" > <img src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" height="30" weight="30"> </a>
-
+<details>
+       <suummary><h1>💼 Professional Certificates:</h1></summary>
+<a href="https://www.credly.com/badges/f1f770a9-323f-4181-b5bc-7b5f38abc063" > <img src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" height="50" weight="50"> </a>
+</details>
+       
 <details>
        <summary><h1>Coding and Web Designing Languages:</h1></summary>
        <a href="https://en.wikipedia.org/wiki/C%2B%2B" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" height="50" weight="50"> </a>
