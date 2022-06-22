@@ -27,10 +27,7 @@
        <a href="https://visualstudio.microsoft.com/" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" height="75" weight="75">
        <a href="https://code.visualstudio.com/" ><img src="https://github.com/YVSimeonova19/YVSimeonova19/blob/master/images/vscode.png?raw=true" height="75" weight="75">
        <a href="https://replit.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/330px-Repl.it_logo.svg.png" height="75" weight="75">
-       <a href="https://github.com/" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" height="75" weight="75">
-       <a href="https://bg.wikipedia.org/wiki/Microsoft_Word" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/98px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" height="75" weight="75">
-       <a href="https://bg.wikipedia.org/wiki/Microsoft_Excel" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/98px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="75" weight="75">
-       <a href="https://bg.wikipedia.org/wiki/Microsoft_PowerPoint" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/98px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" height="75" weight="75">
+       <a href="htthttps://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFUps://github.com/" ><img src="" height="75" weight="75">
         <a href="https://bg.wikipedia.org/wiki/Microsoft_Office" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/150px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" height="75" weight="75">
 </details>
         <h1>Contact Me:</h1>
