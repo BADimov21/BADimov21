@@ -30,11 +30,11 @@
        <a href="https://github.com/" ><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" height="75" weight="75">
         <a href="https://bg.wikipedia.org/wiki/Microsoft_Office" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/150px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" height="75" weight="75">
 </details>
-        <h1>Contact Me:</h1>
-  <a href="https://www.linkedin.com/in/bozhidar-dimov-a5b31223a"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" height="75" weight="75"> </a>
-  <a href="https://twitter.com/Bokata_96"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/150px-Twitter-logo.svg.png" height="75" weight="75"> </a>
- <details>
+<details>
        <summary><h3>GitHub Stats:</h3></summary>
        <img src="https://github-readme-stats.vercel.app/api?username=BADimov21&count_private=true&show_icons=true&theme=radical"> <br>
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADimov21&show_icons=true&theme=radical">
  </details>
+        <h1>Contact Me:</h1>
+  <a href="https://www.linkedin.com/in/bozhidar-dimov-a5b31223a"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" height="75" weight="75"> </a>
+  <a href="https://twitter.com/Bokata_96"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/150px-Twitter-logo.svg.png" height="75" weight="75"> </a>
