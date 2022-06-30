@@ -35,6 +35,6 @@
   <a href="https://twitter.com/Bokata_96"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/150px-Twitter-logo.svg.png" height="75" weight="75"> </a>
  <details>
        <summary><h3>GitHub Stats:</h3></summary>
-       [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BADimov21&count_private=true&theme=tokyonight&showicons=true)]()
-       [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BADimov21&langs_count=5&theme=tokyonight)]()
+       <img src="[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BADimov21&count_private=true&theme=tokyonight&showicons=true)]()"> <br>
+       <img src="[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BADimov21&langs_count=5&theme=tokyonight)]()">
  </details>
