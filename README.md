@@ -35,5 +35,5 @@
   <a href="https://twitter.com/Bokata_96"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/150px-Twitter-logo.svg.png" height="75" weight="75"> </a>
  <details>
        <summary><h3>GitHub Stats:</h3></summary>
-       ![GitHub Stats](https://github-readme-stats.vercel.app/api&username=badimov21&theme=radical)
+       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badimov21&langs_count=8&theme=tokyonight)](https://github.com/BADimov21)
  </details>
