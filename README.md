@@ -36,5 +36,5 @@
  <details>
        <summary><h3>GitHub Stats:</h3></summary>
        <img src="https://github-readme-stats.vercel.app/api?username=BADimov21&count_private=true&show_icons=true&theme=radical"> <br>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADIMOV21&show_icons=true&theme=radical">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADimov21&show_icons=true&theme=radical">
  </details>
