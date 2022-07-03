@@ -9,6 +9,8 @@
 - ⚡ Goals: I want to become a professional programmer and web designer.
 - 😀 Status: Feeling free!🏖️
 
+<h3>My portfolio <a href="https://badimov.netlify.app">website</a></h3>
+
 <details>
        <summary><h3>💼My Professional Certificates:</h3></summary>
        <a href="https://www.credly.com/badges/878a8d30-198d-417e-9105-92a4849f9509" > <img src="https://images.credly.com/size/680x680/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png" height="200" weight="200"> </a>
