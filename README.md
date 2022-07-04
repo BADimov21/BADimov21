@@ -33,7 +33,7 @@
         <a href="https://bg.wikipedia.org/wiki/Microsoft_Office" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/150px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" height="75" weight="75">
 </details>
 <details>
-       <summary><h3>GitHub Stats:</h3></summary>
+       <summary><h3>📈 GitHub Stats:</h3></summary>
        <img src="https://github-readme-stats.vercel.app/api?username=BADimov21&count_private=true&show_icons=true&theme=radical"> <br>
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADimov21&show_icons=true&theme=radical">
  </details>
