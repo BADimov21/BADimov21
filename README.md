@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C++, HTML, CSS, coding and web design in general, will start with JavaScript soon.
 - 💬 You can ask me everything, I'll be glad to share!
 - 👯 My hobbies are coding, web design, video games, board games and astronomy.
-- 📫 How to reach me: <a href="mailto:BADimov21@codingburgas.bg"> My Work Email </a>
+- 📫 How to reach me:  My Work Email - <a href="mailto:BADimov21@codingburgas.bg">BADimov21@codingburgas.bg </a>
 - 😄 Pronouns: He/Him
 - ⚡ Goals: I want to become a professional programmer and web designer.
 - 😀 Status: Feeling free!🏖️
