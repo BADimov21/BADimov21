@@ -9,7 +9,7 @@
 - ⚡ Goals: I want to become a professional programmer and web designer.
 - 😀 Status: Feeling free!🏖️
 
-<h3>My portfolio <a href="https://badimov.netlify.app">website</a></h3>
+<h3> 💻 My portfolio <a href="https://badimov.netlify.app">website</a> made by me, which you can checkout.</h3>
 
 <details>
        <summary><h3>💼My Professional Certificates:</h3></summary>
