@@ -7,7 +7,7 @@
 - 📫 How to reach me:  My Work Email - <a href="mailto:BADimov21@codingburgas.bg">BADimov21@codingburgas.bg </a>
 - 😄 Pronouns: He/Him
 - ⚡ Goals: I want to become a professional programmer and web designer.
-- 😀 Status: Feeling free!🏖️
+- 😀 Status: Well, it could be better honestly.
 
 <h3> 💻 My portfolio <a href="https://badimov.netlify.app">website</a> made by me, which you can checkout.</h3>
 
