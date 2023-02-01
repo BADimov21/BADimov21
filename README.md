@@ -1,7 +1,7 @@
 <center><h1> Hi there 👋, I'm Bozhidar, and here are some things about me: </h1></center>
 
 - 🔭 Student at <a href="https://www.codingburgas.bg/"> @codingburgas </a>
-- 🌱 I’m currently learning C++, HTML, CSS, coding and web design in general, will start with JavaScript soon.
+- 🌱 I’m currently learning C++, HTML, CSS, JS, coding & web design in general.
 - 💬 You can ask me everything, I'll be glad to share!
 - 👯 My hobbies are coding, web design, video games, board games and astronomy.
 - 📫 How to reach me:  My Work Email - <a href="mailto:BADimov21@codingburgas.bg">BADimov21@codingburgas.bg </a>
