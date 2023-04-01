@@ -1,4 +1,4 @@
-<center><h1> Hi there 👋, I'm Bozhidar, and here are some things about me: </h1></center>
+<h1 style="text-align: center;"> Hi there 👋, I'm Bozhidar, and here are some things about me: </h1>
 
 - 🔭 Student at <a href="https://www.codingburgas.bg/"> @codingburgas </a>
 - 🌱 I’m currently learning C++, HTML, CSS, JS, coding & web design in general.
@@ -31,7 +31,7 @@
        <a href="https://code.visualstudio.com/" ><img src="https://github.com/YVSimeonova19/YVSimeonova19/blob/master/images/vscode.png?raw=true" height="75" weight="75" alt="Visual Studio Code">
        <a href="https://replit.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/330px-Repl.it_logo.svg.png" height="75" weight="75" alt="Replit">
        <a href="https://github.com/" ><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" height="75" weight="75" alt="GitHub">
-        <a href="https://bg.wikipedia.org/wiki/Microsoft_Office" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/150px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" height="75" weight="75" alt="MS Office">
+        <a href="https://en.wikipedia.org/wiki/Microsoft_Office"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/150px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" height="75" weight="75" alt="MS Office">
 </details>
 <details>
        <summary><h3>📈 GitHub Stats:</h3></summary>
