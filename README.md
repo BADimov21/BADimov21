@@ -22,6 +22,7 @@
        <a href="https://en.wikipedia.org/wiki/C%2B%2B" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" height="75" weight="75"> </a>
        <a href="https://en.wikipedia.org/wiki/HTML5" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" height="75" weight="75"> </a>
        <a href="https://en.wikipedia.org/wiki/CSS" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" height="75" weight="75">
+       <a href="https://en.wikipedia.org/wiki/JavaScript" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/210px-Unofficial_JavaScript_logo_2.svg.png" height="75" weight="75">
 </details>
        
 <details>
