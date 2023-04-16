@@ -41,4 +41,4 @@
  </details>
         <h1>Contact Me:</h1>
   <a href="https://www.linkedin.com/in/bozhidar-dimov-a5b31223a"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" height="75" weight="75" alt="Linkedin"> </a>
-  <a href="https://twitter.com/Bokata_96"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/150px-Twitter-logo.svg.png" height="75" weight="75" alt="Twitter"> </a>
+  <a href="https://twitter.com/Bokata_96"> <img src="https://cdn.freebiesupply.com/logos/large/2x/twitter-3-logo-png-transparent.png" height="75" weight="75" alt="Twitter"> </a>
