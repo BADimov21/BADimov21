@@ -17,6 +17,7 @@
        <a href="https://www.credly.com/badges/878a8d30-198d-417e-9105-92a4849f9509" > <img src="https://images.credly.com/size/680x680/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png" height="200" weight="200" alt="HTML5 & CSS3 IT Specialist Certificate"> </a>
        <a href="https://www.credly.com/badges/f1f770a9-323f-4181-b5bc-7b5f38abc063" > <img src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" height="200" weight="200" alt="MS Word 2016 Specialist Certificate"> </a>
        <a href="https://www.credly.com/badges/1deeb856-4478-4ea7-94e2-85c1d0884c79" > <img src="https://images.credly.com/size/680x680/images/9d2bcbe6-519f-4ed0-ad34-aca077421568/MOS_Excel.png" height="200" weight="200" alt="MS Excel Associate Specialist 2019 Certificate"> </a>
+       <a href="https://www.credly.com/badges/9efa6024-16cf-41ac-a526-2ad0dbd8542f" > <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="200" weight="200" alt="Introduction to Cybersecurity Certificate"> </a>
 </details>
        
 <details>
@@ -34,7 +35,7 @@
        <a href="https://replit.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/330px-Repl.it_logo.svg.png" height="75" weight="75" alt="Replit">
        <a href="https://github.com/" ><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" height="75" weight="75" alt="GitHub">
         <a href="https://git-scm.com/" ><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="75" weight="75" alt="Git">
-        <a href="https://en.wikipedia.org/wiki/Microsoft_Office"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/150px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" height="75" weight="75" alt="MS Office">
+        <a href="https://en.wikipedia.org/wiki/Microsoft_Office"><img src="https://www.freepnglogos.com/uploads/microsoft-office-png-logo/microsoft-office-2013-symbol-logo-png-6.png" height="75" weight="75" alt="MS Office">
 </details>
 <details>
        <summary><h3>📈 GitHub Stats:</h3></summary>
