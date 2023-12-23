@@ -18,7 +18,7 @@
        <a href="https://www.credly.com/badges/f1f770a9-323f-4181-b5bc-7b5f38abc063" > <img src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" height="200" weight="200" alt="MS Word 2016 Specialist Certificate"> </a>
        <a href="https://www.credly.com/badges/1deeb856-4478-4ea7-94e2-85c1d0884c79" > <img src="https://images.credly.com/size/680x680/images/9d2bcbe6-519f-4ed0-ad34-aca077421568/MOS_Excel.png" height="200" weight="200" alt="MS Excel Associate Specialist 2019 Certificate"> </a>
        <a href="https://www.credly.com/badges/9efa6024-16cf-41ac-a526-2ad0dbd8542f" > <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height="200" weight="200" alt="Introduction to Cybersecurity Certificate"> </a>
-       <a href="https://www.credly.com/badges/058d4d47-5c5c-49e0-acef-b9fe16fdb4e9" > <img src="https://images.credly.com/size/220x220/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" height="200" weight="200" alt="Networking Academy Learn-A-Thon Certificate"> </a>
+       <a href="https://www.credly.com/badges/058d4d47-5c5c-49e0-acef-b9fe16fdb4e9" > <img src="https://images.credly.com/size/680x680/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" height="200" weight="200" alt="Networking Academy Learn-A-Thon Certificate"> </a>
 </details>
        
 <details>
