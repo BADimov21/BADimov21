@@ -45,4 +45,4 @@
  </details>
         <h1>Contact Me:</h1>
   <a href="https://www.linkedin.com/in/bozhidar-dimov-a5b31223a"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" height="75" weight="75" alt="Linkedin"> </a>
-  <a href="https://twitter.com/Bokata_96"> <img src="https://cdn.freebiesupply.com/logos/large/2x/twitter-3-logo-png-transparent.png" height="75" weight="75" alt="Twitter"> </a>
+  <a href="https://twitter.com/Bokata_96"> <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.967060102.1708732800&semt=ais" height="75" weight="75" alt="X"> </a>
