@@ -1,13 +1,13 @@
-<h1 style="text-align: center;"> Hi there 👋, I'm Bozhidar, and here are some things about me: </h1>
+<h1 align="center"> Hi there 👋, I'm Bozhidar, and here are some things about me: </h1>
 
 - 🔭 Student at <a href="https://www.codingburgas.bg/"> @codingburgas </a>
-- 🌱 I’m currently learning C++, HTML, CSS, JS, coding & web design in general.
+- 🌱 I’m currently learning C++ and SQL, coding & databases in general.
 - 💬 You can ask me everything, I'll be glad to share!
-- 👯 My hobbies are coding, web design, video games, board games and astronomy.
+- 👯 My hobbies are coding, web design, video games, game development and learning.
 - 📫 How to reach me:  My School Email - <a href="mailto:BADimov21@codingburgas.bg">BADimov21@codingburgas.bg </a>
 - 😄 Pronouns: He/Him
 - ⚡ Goals: I want to become a professional programmer and web designer.
-- 😀 Status: Favourite time of the year...🏖️🏖️🏖️
+- 😀 Status: It can be better for sure.
 
 <h3>💻My portfolio <a href="https://badimov.netlify.app">website</a> made by me.</h3>
 
@@ -33,6 +33,7 @@
        <summary><h3>🛠️Software:</h3></summary>
        <a href="https://visualstudio.microsoft.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" height="75" weight="75" alt="Visual Studio 2022">
        <a href="https://code.visualstudio.com/" ><img src="https://github.com/YVSimeonova19/YVSimeonova19/blob/master/images/vscode.png?raw=true" height="75" weight="75" alt="Visual Studio Code">
+       <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?source=recommendations"><img src="https://img.utdstc.com/icon/981/2d8/9812d89705787310adf08f0edf758921b8d551e8329c8d8c5eeabf4d06b08378:200" height="75" weight="75" alt="SQL Server Management Studio">
        <a href="https://replit.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/330px-Repl.it_logo.svg.png" height="75" weight="75" alt="Replit">
        <a href="https://github.com/" ><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" height="75" weight="75" alt="GitHub">
         <a href="https://git-scm.com/" ><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="75" weight="75" alt="Git">
