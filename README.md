@@ -11,7 +11,6 @@
 
 <h3 align="center">For more exciting updates and projects happening on my GitHub, you can follow me to stay tuned and star my repositories to support me and my work. Thank you! ❤️</h3>
 <br>
-<h3>💻My portfolio <a href="https://badimov.netlify.app">website</a> made by me.</h3>
 
 <details>
        <summary><h3>💼Badges:</h3></summary>
