@@ -39,7 +39,7 @@
        <a href="https://code.visualstudio.com/" ><img src="https://github.com/YVSimeonova19/YVSimeonova19/blob/master/images/vscode.png?raw=true" height="75" weight="75" alt="Visual Studio Code">
        <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?source=recommendations"><img src="https://img.utdstc.com/icon/981/2d8/9812d89705787310adf08f0edf758921b8d551e8329c8d8c5eeabf4d06b08378:200" height="75" weight="75" alt="SQL Server Management Studio">
        <a href="https://www.arduino.cc/en/software"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" height="75" weight="75" alt="Arduino IDE">
-       <a href="https://www.qt.io/product/development-tools" ><img src="https://static.macupdate.com/products/62488/l/qt-creator-logo.png?v=1660240949" height="75" weight="75" alt="Qt Creator">
+       <a href="https://www.qt.io/product/development-tools" ><img src="https://cdn.discordapp.com/attachments/819832109031096321/1223633241651544204/IMG_1929-removebg-preview.png?ex=661a9042&is=66081b42&hm=5112349bf9f2598054b645e33b58c8075faf64129ed61e4eb1de069393a60a04&" height="75" weight="75" alt="Qt Creator">
        <a href="https://replit.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/330px-Repl.it_logo.svg.png" height="75" weight="75" alt="Replit">
        <a href="https://github.com/" ><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" height="75" weight="75" alt="GitHub">
         <a href="https://git-scm.com/" ><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="75" weight="75" alt="Git">
