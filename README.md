@@ -7,7 +7,7 @@
 - 📫 How to reach me:  My School Email - <a href="mailto:BADimov21@codingburgas.bg">BADimov21@codingburgas.bg </a>
 - 😄 Pronouns: He/Him
 - ⚡ Goals: I want to become a professional programmer and web designer.
-- 😀 Status: That time of the year...🌴🌴🌴 <br>
+- 😀 Status: Well... <br>
 
 <h3 align="center">For more exciting updates and projects happening on my GitHub, you can follow me to stay tuned and star my repositories to support me and my work. Thank you! ❤️</h3>
 <br>
