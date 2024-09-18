@@ -38,7 +38,9 @@
        <summary><h3>🛠️Software:</h3></summary>
        <a href="https://visualstudio.microsoft.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" height="75" weight="75" alt="Visual Studio 2022">
        <a href="https://code.visualstudio.com/" ><img src="https://github.com/YVSimeonova19/YVSimeonova19/blob/master/images/vscode.png?raw=true" height="75" weight="75" alt="Visual Studio Code">
-       <a href="https://www.jetbrains.com/clion" ><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83cc8bd2-13e2-4d07-a794-2b855046a0ac.png" height="75" weight="75" alt="CLion by JetBrains">
+       <a href="https://www.jetbrains.com/clion/" ><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83cc8bd2-13e2-4d07-a794-2b855046a0ac.png" height="75" weight="75" alt="CLion by JetBrains">
+       <a href="https://www.jetbrains.com/rider/" ><img src="https://codeopinion.com/wp-content/uploads/2017/08/logo.png" height="75" weight="75" alt="Rider by JetBrains">
+       <a href="https://www.jetbrains.com/datagrip/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png" height="75" weight="75" alt="DataGrip by JetBrains">
        <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?source=recommendations"><img src="https://img.utdstc.com/icon/981/2d8/9812d89705787310adf08f0edf758921b8d551e8329c8d8c5eeabf4d06b08378:200" height="75" weight="75" alt="SQL Server Management Studio">
        <a href="https://www.heidisql.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HeidiSQL_logo_image.png/800px-HeidiSQL_logo_image.png" height="75" weight="75" alt="HeidiSQL">
        <a href="https://www.arduino.cc/en/software"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" height="75" weight="75" alt="Arduino IDE">
