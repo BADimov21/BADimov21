@@ -24,9 +24,11 @@
 </details>
        
 <details>
-       <summary><h3>👨‍💻Languages:</h3></summary>
-       <a href="https://en.wikipedia.org/wiki/C%2B%2B" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" height="75" weight="75" alt="C++"> </a>
+       <summary><h3>👨‍💻Languages / Platforms / Frameworks:</h3></summary>
+       <a href="https://cplusplus.com/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" height="75" weight="75" alt="C++"> </a>
        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" > <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="75" weight="75" alt="C"> </a>
+       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" > <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C.png" height="75" weight="75" alt="C#"> </a>
+       <a href="https://dotnet.microsoft.com/en-us/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" height="75" weight="75" alt=".NET">
        <a href="https://en.wikipedia.org/wiki/JavaScript" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/210px-Unofficial_JavaScript_logo_2.svg.png" height="75" weight="75" alt="JavaScript">
        <a href="https://en.m.wikipedia.org/wiki/SQL" > <img src="https://miro.medium.com/v2/resize:fit:787/1*IYEvbY1IRNoXRTuAIWpERQ.png" height="75" weight="75" alt="SQL"> </a>
        <a href="https://www.arduino.cc" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" height="75" weight="75" alt="Arduino"> </a>
