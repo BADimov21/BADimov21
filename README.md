@@ -14,6 +14,7 @@
 
 <details>
        <summary><h3>💼Badges:</h3></summary>
+       <p align="center">
        <a href="https://www.credly.com/badges/7ef290f1-5ec9-4fde-a9c5-7c0959e140f6" > <img src="https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" height="200" weight="200" alt="JavaScript IT Specialist Certificate"> </a>
        <a href="https://www.credly.com/badges/878a8d30-198d-417e-9105-92a4849f9509" > <img src="https://images.credly.com/size/680x680/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png" height="200" weight="200" alt="HTML5 & CSS3 IT Specialist Certificate"> </a>
        <a href="https://www.credly.com/badges/096cb08a-c727-4785-87e8-004f5c431665" > <img src="https://images.credly.com/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" height="200" weight="200" alt="IT Essentials Specialist Certificate"> </a>
@@ -21,10 +22,12 @@
        <a href="https://www.credly.com/badges/f1f770a9-323f-4181-b5bc-7b5f38abc063" > <img src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" height="200" weight="200" alt="MS Word 2016 Specialist Certificate"> </a>
        <a href="https://www.credly.com/badges/1deeb856-4478-4ea7-94e2-85c1d0884c79" > <img src="https://images.credly.com/size/680x680/images/9d2bcbe6-519f-4ed0-ad34-aca077421568/MOS_Excel.png" height="200" weight="200" alt="MS Excel Associate Specialist 2019 Certificate"> </a>
        <a href="https://www.credly.com/badges/058d4d47-5c5c-49e0-acef-b9fe16fdb4e9" > <img src="https://images.credly.com/size/680x680/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" height="200" weight="200" alt="Networking Academy Learn-A-Thon Certificate"> </a>
+       </p>
 </details>
        
 <details>
        <summary><h3>👨‍💻Languages / Platforms / Frameworks:</h3></summary>
+       <p align="center">
        <a href="https://cplusplus.com/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" height="75" weight="75" alt="C++"> </a>
        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" > <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="75" weight="75" alt="C"> </a>
        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" > <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C.png" height="75" weight="75" alt="C#"> </a>
@@ -36,10 +39,12 @@
        <a href="https://www.arduino.cc" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" height="75" weight="75" alt="Arduino"> </a>
        <a href="https://en.wikipedia.org/wiki/HTML5" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" height="75" weight="75" alt="HTML5"> </a>
        <a href="https://en.wikipedia.org/wiki/CSS" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" height="75" weight="75" alt="CSS3">
+       </a>
 </details>
        
 <details>
        <summary><h3>🛠️Software / Programs:</h3></summary>
+       <p align="center">
        <a href="https://visualstudio.microsoft.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" height="75" weight="75" alt="Visual Studio 2022">
        <a href="https://code.visualstudio.com/" ><img src="https://github.com/YVSimeonova19/YVSimeonova19/blob/master/images/vscode.png?raw=true" height="75" weight="75" alt="Visual Studio Code">
        <a href="https://www.jetbrains.com/clion/" ><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83cc8bd2-13e2-4d07-a794-2b855046a0ac.png" height="75" weight="75" alt="CLion by JetBrains">
@@ -55,12 +60,19 @@
        <a href="https://www.codechef.com/" ><img src="https://github.com/user-attachments/assets/45b7bc77-6cfd-41aa-ba9e-e57c2319715f" height="75" weight="75" alt="CodeChef">
        <a href="https://git-scm.com/" ><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="75" weight="75" alt="Git">
        <a href="https://en.wikipedia.org/wiki/Microsoft_Office"><img src="https://www.freepnglogos.com/uploads/microsoft-office-png-logo/microsoft-office-2013-symbol-logo-png-6.png" height="75" weight="75" alt="MS Office">
+       </a>
 </details>
+              
 <details>
        <summary><h3>📈 GitHub Stats:</h3></summary>
+       <p align="center">
        <img src="https://github-readme-stats.vercel.app/api?username=BADimov21&count_private=true&show_icons=true&theme=radical"> <br>
+       <img src="https://streak-stats.demolab.com/?user=BADimov21&theme=radical"> <br>
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADimov21&show_icons=true&theme=radical">
+       </p>
  </details>
         <h1>Contact Me:</h1>
-  <a href="https://www.linkedin.com/in/bozhidar-dimov-a5b31223a"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" height="75" weight="75" alt="Linkedin"> </a>
-  <a href="https://twitter.com/Bokata_96"> <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.967060102.1708732800&semt=ais" height="75" weight="75" alt="X"> </a>
+       <p align="center">
+         <a href="https://www.linkedin.com/in/bozhidar-dimov-a5b31223a"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" height="75" weight="75" alt="Linkedin"> </a>
+         <a href="https://twitter.com/Bokata_96"> <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.967060102.1708732800&semt=ais" height="75" weight="75" alt="X"> </a>
+       </p>
