@@ -7,7 +7,7 @@
 - 📫 How to reach me:  My School Email - <a href="mailto:BADimov21@codingburgas.bg">BADimov21@codingburgas.bg </a>
 - 😄 Pronouns: He/Him
 - ⚡ Goals: I want to become a professional software engineer.
-- 😀 Status: Well... <br>
+- 😀 Status: Diverse. <br>
 
 <h3 align="center">For more exciting updates and projects happening on my GitHub, you can follow me to stay tuned and star my repositories to support me and my work. Thank you! ❤️</h3>
 <br>
@@ -30,6 +30,8 @@
        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" > <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C.png" height="75" weight="75" alt="C#"> </a>
        <a href="https://dotnet.microsoft.com/en-us/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" height="75" weight="75" alt=".NET">
        <a href="https://en.wikipedia.org/wiki/JavaScript" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/210px-Unofficial_JavaScript_logo_2.svg.png" height="75" weight="75" alt="JavaScript">
+       <a href="https://www.typescriptlang.org/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="75" weight="75" alt="TypeScript">
+       <a href="https://reactnative.dev/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="75" weight="75" alt="React Native">
        <a href="https://en.m.wikipedia.org/wiki/SQL" > <img src="https://miro.medium.com/v2/resize:fit:787/1*IYEvbY1IRNoXRTuAIWpERQ.png" height="75" weight="75" alt="SQL"> </a>
        <a href="https://www.arduino.cc" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" height="75" weight="75" alt="Arduino"> </a>
        <a href="https://en.wikipedia.org/wiki/HTML5" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" height="75" weight="75" alt="HTML5"> </a>
@@ -45,6 +47,7 @@
        <a href="https://www.jetbrains.com/datagrip/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png" height="75" weight="75" alt="DataGrip by JetBrains">
        <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?source=recommendations"><img src="https://img.utdstc.com/icon/981/2d8/9812d89705787310adf08f0edf758921b8d551e8329c8d8c5eeabf4d06b08378:200" height="75" weight="75" alt="SQL Server Management Studio">
        <a href="https://www.heidisql.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HeidiSQL_logo_image.png/800px-HeidiSQL_logo_image.png" height="75" weight="75" alt="HeidiSQL">
+       <a href="https://firebase.google.com/"><img src="https://www.gstatic.com/devrel-devsite/prod/v0e3f58103119c4df6fb3c3977dcfd0cb669bdf6385f895761c1853a4b0b11be9/firebase/images/touchicon-180.png" height="75" weight="75" alt="Firebase bt Google">
        <a href="https://www.arduino.cc/en/software"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" height="75" weight="75" alt="Arduino IDE">
        <a href="https://www.qt.io/product/development-tools" ><img src="https://anturis.com/wp-content/uploads/2022/11/Qt-Creator-Logo.png" height="75" weight="75" alt="Qt Creator">
        <a href="https://replit.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/330px-Repl.it_logo.svg.png" height="75" weight="75" alt="Replit">
