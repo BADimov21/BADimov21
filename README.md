@@ -39,7 +39,7 @@
 </details>
        
 <details>
-       <summary><h3>🛠️Software:</h3></summary>
+       <summary><h3>🛠️Software / Programs:</h3></summary>
        <a href="https://visualstudio.microsoft.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" height="75" weight="75" alt="Visual Studio 2022">
        <a href="https://code.visualstudio.com/" ><img src="https://github.com/YVSimeonova19/YVSimeonova19/blob/master/images/vscode.png?raw=true" height="75" weight="75" alt="Visual Studio Code">
        <a href="https://www.jetbrains.com/clion/" ><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83cc8bd2-13e2-4d07-a794-2b855046a0ac.png" height="75" weight="75" alt="CLion by JetBrains">
@@ -50,10 +50,11 @@
        <a href="https://firebase.google.com/"><img src="https://www.gstatic.com/devrel-devsite/prod/v0e3f58103119c4df6fb3c3977dcfd0cb669bdf6385f895761c1853a4b0b11be9/firebase/images/touchicon-180.png" height="75" weight="75" alt="Firebase bt Google">
        <a href="https://www.arduino.cc/en/software"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" height="75" weight="75" alt="Arduino IDE">
        <a href="https://www.qt.io/product/development-tools" ><img src="https://anturis.com/wp-content/uploads/2022/11/Qt-Creator-Logo.png" height="75" weight="75" alt="Qt Creator">
-       <a href="https://replit.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/330px-Repl.it_logo.svg.png" height="75" weight="75" alt="Replit">
        <a href="https://github.com/" ><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" height="75" weight="75" alt="GitHub">
-        <a href="https://git-scm.com/" ><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="75" weight="75" alt="Git">
-        <a href="https://en.wikipedia.org/wiki/Microsoft_Office"><img src="https://www.freepnglogos.com/uploads/microsoft-office-png-logo/microsoft-office-2013-symbol-logo-png-6.png" height="75" weight="75" alt="MS Office">
+       <a href="https://replit.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/330px-Repl.it_logo.svg.png" height="75" weight="75" alt="Replit">
+       <a href="https://www.codechef.com/" ><img src="https://github.com/user-attachments/assets/45b7bc77-6cfd-41aa-ba9e-e57c2319715f" height="75" weight="75" alt="CodeChef">
+       <a href="https://git-scm.com/" ><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="75" weight="75" alt="Git">
+       <a href="https://en.wikipedia.org/wiki/Microsoft_Office"><img src="https://www.freepnglogos.com/uploads/microsoft-office-png-logo/microsoft-office-2013-symbol-logo-png-6.png" height="75" weight="75" alt="MS Office">
 </details>
 <details>
        <summary><h3>📈 GitHub Stats:</h3></summary>
