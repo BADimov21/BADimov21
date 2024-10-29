@@ -14,7 +14,6 @@
 
 <details>
        <summary><h3>💼Badges:</h3></summary>
-       <p align="center">
        <a href="https://www.credly.com/badges/7ef290f1-5ec9-4fde-a9c5-7c0959e140f6" > <img src="https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" height="200" weight="200" alt="JavaScript IT Specialist Certificate"> </a>
        <a href="https://www.credly.com/badges/878a8d30-198d-417e-9105-92a4849f9509" > <img src="https://images.credly.com/size/680x680/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png" height="200" weight="200" alt="HTML5 & CSS3 IT Specialist Certificate"> </a>
        <a href="https://www.credly.com/badges/096cb08a-c727-4785-87e8-004f5c431665" > <img src="https://images.credly.com/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" height="200" weight="200" alt="IT Essentials Specialist Certificate"> </a>
@@ -22,12 +21,10 @@
        <a href="https://www.credly.com/badges/f1f770a9-323f-4181-b5bc-7b5f38abc063" > <img src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" height="200" weight="200" alt="MS Word 2016 Specialist Certificate"> </a>
        <a href="https://www.credly.com/badges/1deeb856-4478-4ea7-94e2-85c1d0884c79" > <img src="https://images.credly.com/size/680x680/images/9d2bcbe6-519f-4ed0-ad34-aca077421568/MOS_Excel.png" height="200" weight="200" alt="MS Excel Associate Specialist 2019 Certificate"> </a>
        <a href="https://www.credly.com/badges/058d4d47-5c5c-49e0-acef-b9fe16fdb4e9" > <img src="https://images.credly.com/size/680x680/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" height="200" weight="200" alt="Networking Academy Learn-A-Thon Certificate"> </a>
-       </p>
 </details>
        
 <details>
        <summary><h3>👨‍💻Languages / Platforms / Frameworks:</h3></summary>
-       <p align="center">
        <a href="https://cplusplus.com/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" height="75" weight="75" alt="C++"> </a>
        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" > <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="75" weight="75" alt="C"> </a>
        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" > <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C.png" height="75" weight="75" alt="C#"> </a>
@@ -44,7 +41,6 @@
        
 <details>
        <summary><h3>🛠️Software / Programs:</h3></summary>
-       <p align="center">
        <a href="https://visualstudio.microsoft.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" height="75" weight="75" alt="Visual Studio 2022">
        <a href="https://code.visualstudio.com/" ><img src="https://github.com/YVSimeonova19/YVSimeonova19/blob/master/images/vscode.png?raw=true" height="75" weight="75" alt="Visual Studio Code">
        <a href="https://www.jetbrains.com/clion/" ><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83cc8bd2-13e2-4d07-a794-2b855046a0ac.png" height="75" weight="75" alt="CLion by JetBrains">
