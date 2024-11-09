@@ -46,11 +46,12 @@
        <a href="https://www.jetbrains.com/clion/" ><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83cc8bd2-13e2-4d07-a794-2b855046a0ac.png" height="75" weight="75" alt="CLion by JetBrains">
        <a href="https://www.jetbrains.com/rider/" ><img src="https://codeopinion.com/wp-content/uploads/2017/08/logo.png" height="75" weight="75" alt="Rider by JetBrains">
        <a href="https://www.jetbrains.com/datagrip/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png" height="75" weight="75" alt="DataGrip by JetBrains">
+       <a href="https://www.qt.io/product/development-tools" ><img src="https://anturis.com/wp-content/uploads/2022/11/Qt-Creator-Logo.png" height="75" weight="75" alt="Qt Creator">
        <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?source=recommendations"><img src="https://img.utdstc.com/icon/981/2d8/9812d89705787310adf08f0edf758921b8d551e8329c8d8c5eeabf4d06b08378:200" height="75" weight="75" alt="SQL Server Management Studio">
        <a href="https://www.heidisql.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HeidiSQL_logo_image.png/800px-HeidiSQL_logo_image.png" height="75" weight="75" alt="HeidiSQL">
        <a href="https://firebase.google.com/"><img src="https://www.gstatic.com/devrel-devsite/prod/v0e3f58103119c4df6fb3c3977dcfd0cb669bdf6385f895761c1853a4b0b11be9/firebase/images/touchicon-180.png" height="75" weight="75" alt="Firebase bt Google">
        <a href="https://www.arduino.cc/en/software"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" height="75" weight="75" alt="Arduino IDE">
-       <a href="https://www.qt.io/product/development-tools" ><img src="https://anturis.com/wp-content/uploads/2022/11/Qt-Creator-Logo.png" height="75" weight="75" alt="Qt Creator">
+       <a href="https://www.solidworks.com/" ><img src="https://github.com/user-attachments/assets/798eab84-0913-4345-bbff-f0bd12fa1929" height="75" weight="75" alt="SolidWorks">
        <a href="https://github.com/" ><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" height="75" weight="75" alt="GitHub">
        <a href="https://replit.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/330px-Repl.it_logo.svg.png" height="75" weight="75" alt="Replit">
        <a href="https://www.codechef.com/" ><img src="https://github.com/user-attachments/assets/45b7bc77-6cfd-41aa-ba9e-e57c2319715f" height="75" weight="75" alt="CodeChef">
@@ -58,7 +59,7 @@
        <a href="https://en.wikipedia.org/wiki/Microsoft_Office"><img src="https://www.freepnglogos.com/uploads/microsoft-office-png-logo/microsoft-office-2013-symbol-logo-png-6.png" height="75" weight="75" alt="MS Office">
        </a>
 </details>
-              
+
 <details>
        <summary><h3>📈 GitHub Stats:</h3></summary>
        <p align="center">
