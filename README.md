@@ -23,7 +23,7 @@
        <a href="https://www.credly.com/badges/1deeb856-4478-4ea7-94e2-85c1d0884c79" > <img src="https://images.credly.com/size/680x680/images/9d2bcbe6-519f-4ed0-ad34-aca077421568/MOS_Excel.png" height="200" weight="200" alt="MS Excel Associate Specialist 2019 Certificate"> </a>
        <a href="https://www.credly.com/badges/058d4d47-5c5c-49e0-acef-b9fe16fdb4e9" > <img src="https://images.credly.com/size/680x680/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" height="200" weight="200" alt="Networking Academy Learn-A-Thon Certificate"> </a>
 </details>
-       
+
 <details>
        <summary><h3>👨‍💻Languages / Platforms / Frameworks:</h3></summary>
        <a href="https://cplusplus.com/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" height="75" weight="75" alt="C++"> </a>
@@ -48,7 +48,7 @@
        <a href="https://www.jetbrains.com/rider/" ><img src="https://codeopinion.com/wp-content/uploads/2017/08/logo.png" height="75" weight="75" alt="Rider by JetBrains">
        <a href="https://www.jetbrains.com/datagrip/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png" height="75" weight="75" alt="DataGrip by JetBrains">
        <a href="https://www.qt.io/product/development-tools" ><img src="https://anturis.com/wp-content/uploads/2022/11/Qt-Creator-Logo.png" height="75" weight="75" alt="Qt Creator">
-       <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?source=recommendations"><img src="https://img.utdstc.com/icon/981/2d8/9812d89705787310adf08f0edf758921b8d551e8329c8d8c5eeabf4d06b08378:200" height="75" weight="75" alt="SQL Server Management Studio">
+       <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?source=recommendations"><img src="https://github.com/user-attachments/assets/bbaa7933-5025-4dce-a5dc-314ebec36367" height="75" weight="75" alt="SQL Server Management Studio 20">
        <a href="https://www.heidisql.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HeidiSQL_logo_image.png/800px-HeidiSQL_logo_image.png" height="75" weight="75" alt="HeidiSQL">
        <a href="https://azure.microsoft.com/en-us/"><img src="https://swimburger.net/media/ppnn3pcl/azure.png" height="75" weight="75" alt="MS Azure">
        <a href="https://firebase.google.com/"><img src="https://www.gstatic.com/devrel-devsite/prod/v0e3f58103119c4df6fb3c3977dcfd0cb669bdf6385f895761c1853a4b0b11be9/firebase/images/touchicon-180.png" height="75" weight="75" alt="Firebase by Google">
