@@ -48,7 +48,7 @@
        <a href="https://www.jetbrains.com/rider/" ><img src="https://codeopinion.com/wp-content/uploads/2017/08/logo.png" height="75" weight="75" alt="Rider by JetBrains">
        <a href="https://www.jetbrains.com/datagrip/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png" height="75" weight="75" alt="DataGrip by JetBrains">
        <a href="https://www.qt.io/product/development-tools" ><img src="https://anturis.com/wp-content/uploads/2022/11/Qt-Creator-Logo.png" height="75" weight="75" alt="Qt Creator">
-       <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?source=recommendations"><img src="https://github.com/user-attachments/assets/bbaa7933-5025-4dce-a5dc-314ebec36367" height="75" weight="75" alt="SQL Server Management Studio 20">
+       <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms"><img src="https://github.com/user-attachments/assets/bbaa7933-5025-4dce-a5dc-314ebec36367" height="75" weight="75" alt="SQL Server Management Studio 20">
        <a href="https://www.heidisql.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HeidiSQL_logo_image.png/800px-HeidiSQL_logo_image.png" height="75" weight="75" alt="HeidiSQL">
        <a href="https://azure.microsoft.com/en-us/"><img src="https://swimburger.net/media/ppnn3pcl/azure.png" height="75" weight="75" alt="MS Azure">
        <a href="https://firebase.google.com/"><img src="https://www.gstatic.com/devrel-devsite/prod/v0e3f58103119c4df6fb3c3977dcfd0cb669bdf6385f895761c1853a4b0b11be9/firebase/images/touchicon-180.png" height="75" weight="75" alt="Firebase by Google">
