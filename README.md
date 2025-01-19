@@ -14,6 +14,9 @@
 
 <details>
        <summary><h3>💼Badges:</h3></summary>
+       <a href="https://www.credly.com/badges/03ad4482-6a71-4273-a06b-6d90f8f64115" > <img src="https://github.com/user-attachments/assets/312be21b-ed4d-47b8-aa2b-e1b49a09f38a" height="200" weight="200" alt="Software Development IT Specialist Certificate"> </a>
+       <a href="https://www.credly.com/badges/50eea51c-0478-4d47-afe1-3fc149f0a848" > <img src="https://github.com/user-attachments/assets/aef1aab6-af64-458b-9a8c-ab64454cbf48" height="200" weight="200" alt="Databases IT Specialist Certificate"> </a>
+       <a href="https://www.credly.com/badges/b47a2c8c-5a81-42aa-a3e7-0adeeb2fd823" > <img src="https://github.com/user-attachments/assets/327acebd-d921-418c-870a-d926bf8c9f52" height="200" weight="200" alt="Java IT Specialist Certificate"> </a>
        <a href="https://www.credly.com/badges/7ef290f1-5ec9-4fde-a9c5-7c0959e140f6" > <img src="https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" height="200" weight="200" alt="JavaScript IT Specialist Certificate"> </a>
        <a href="https://www.credly.com/badges/878a8d30-198d-417e-9105-92a4849f9509" > <img src="https://images.credly.com/size/680x680/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png" height="200" weight="200" alt="HTML5 & CSS3 IT Specialist Certificate"> </a>
        <a href="https://www.credly.com/badges/096cb08a-c727-4785-87e8-004f5c431665" > <img src="https://images.credly.com/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" height="200" weight="200" alt="IT Essentials Specialist Certificate"> </a>
