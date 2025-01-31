@@ -60,6 +60,7 @@
        <a href="https://www.solidworks.com/" ><img src="https://github.com/user-attachments/assets/798eab84-0913-4345-bbff-f0bd12fa1929" height="75" weight="75" alt="SolidWorks">
        <a href="https://github.com/" ><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" height="75" weight="75" alt="GitHub">
        <a href="https://replit.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/330px-Repl.it_logo.svg.png" height="75" weight="75" alt="Replit">
+       <a href="https://www.lucidchart.com/" ><img src="https://cdn-cashy-static-assets.lucidchart.com/app/webroot/favicons/favicon_chart_v5.ico" height="75" weight="75" alt="Lucidchart">
        <a href="https://www.codechef.com/" ><img src="https://github.com/user-attachments/assets/45b7bc77-6cfd-41aa-ba9e-e57c2319715f" height="75" weight="75" alt="CodeChef">
        <a href="https://git-scm.com/" ><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="75" weight="75" alt="Git">
        <a href="https://en.wikipedia.org/wiki/Microsoft_Office"><img src="https://www.freepnglogos.com/uploads/microsoft-office-png-logo/microsoft-office-2013-symbol-logo-png-6.png" height="75" weight="75" alt="MS Office">
