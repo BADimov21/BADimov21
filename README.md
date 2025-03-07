@@ -34,6 +34,7 @@
        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" > <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="75" weight="75" alt="C"> </a>
        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" > <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/C.png" height="75" weight="75" alt="C#"> </a>
        <a href="https://dotnet.microsoft.com/en-us/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" height="75" weight="75" alt=".NET">
+       <a href="https://www.python.org" ><img src="https://github.com/user-attachments/assets/452a6dab-97e0-442b-aa9b-6383d0c1f31b" height="75" weight="75" alt="Python">
        <a href="https://en.wikipedia.org/wiki/JavaScript" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/210px-Unofficial_JavaScript_logo_2.svg.png" height="75" weight="75" alt="JavaScript">
        <a href="https://www.typescriptlang.org/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="75" weight="75" alt="TypeScript">
        <a href="https://reactnative.dev/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="75" weight="75" alt="React Native">
