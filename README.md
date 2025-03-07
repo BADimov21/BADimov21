@@ -72,7 +72,7 @@
        <summary><h3>📈 GitHub Stats:</h3></summary>
        <p align="center">
        <img src="https://github-readme-stats.vercel.app/api?username=BADimov21&count_private=true&show_icons=true&theme=radical"> <br>
-       <img src="https://streak-stats.demolab.com/?user=BADimov21&theme=radical"> <br>
+       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=BADimov21&theme=radical"> <br>
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADimov21&show_icons=true&theme=radical">
        </p>
  </details>
