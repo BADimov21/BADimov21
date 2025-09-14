@@ -3,13 +3,12 @@
 - 🔭 Student at <a href="https://www.codingburgas.bg/"> @codingburgas </a>
 - 🌱 I’m currently learning C# & SQL, programming, software development & databases in general.
 - 💬 You can ask me everything, I'll be glad to share!
-- 👯 My hobbies are coding, web design, video games, game development and learning.
 - 📫 How to reach me:  My School Email - <a href="mailto:BADimov21@codingburgas.bg">BADimov21@codingburgas.bg </a>
 - 😄 Pronouns: He/Him
 - ⚡ Goals: I want to become a professional software engineer.
 - 😀 Status: Diverse. <br>
 
-<h3 align="center">For more exciting updates and projects happening on my GitHub, you can follow me to stay tuned and star my repositories to support me and my work. Thank you! ❤️</h3>
+<h3 align="center">For more exciting updates and projects happening on my GitHub, you can follow me to stay tuned and star my repositories to support me and my work. You can also visit my LinkedIn profile, which is linked down below to see my skills and experience. Thank you! ❤️</h3>
 <br>
 
 <details>
