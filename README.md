@@ -1,9 +1,9 @@
 <h1 align="center"> Hi there 👋, I'm Bozhidar, and here are some things about me: </h1>
 
-- 🔭 Student at <a href="https://www.codingburgas.bg/"> @codingburgas </a>
+- 🔭 Senior at <a href="https://www.codingburgas.bg/"> @codingburgas </a>
 - 🌱 I’m currently learning C# & SQL, programming, software development & databases in general.
 - 💬 You can ask me everything, I'll be glad to share!
-- 📫 How to reach me:  My School Email - <a href="mailto:BADimov21@codingburgas.bg">BADimov21@codingburgas.bg </a>
+- 📫 How to reach me:  My school email - <a href="mailto:BADimov21@codingburgas.bg">BADimov21@codingburgas.bg </a> or through my <a href="https://www.linkedin.com/in/bozhidar-dimov-a5b31223a">LinkedIn account </a>
 - 😄 Pronouns: He/Him
 - ⚡ Goals: I want to become a professional software engineer.
 - 😀 Status: Diverse. <br>
