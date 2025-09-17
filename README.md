@@ -88,7 +88,8 @@
        <p align="center">
        <img src="https://github-readme-stats.vercel.app/api?username=BADimov21&count_private=true&show_icons=true&theme=radical"> <br>
        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=BADimov21&theme=radical"> <br>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADimov21&show_icons=true&theme=radical">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADimov21&show_icons=true&theme=radical"> <br>
+       <img src="https://github-profile-trophy.vercel.app/?username=BADimov21&theme=aura">
        </p>
  </details>
         <h1>Contact Me:</h1>
