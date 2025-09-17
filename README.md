@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, I'm Bozhidar, and here are some things about me: </h1>
 
 - 🔭 Senior at <a href="https://www.codingburgas.bg/"> @codingburgas </a>
-- 🌱 I’m currently learning C# & SQL, programming, software development & databases in general.
+- 🌱 I’m currently learning C#, Haskell, programming, software development & engineering in general.
 - 💬 You can ask me everything, I'll be glad to share!
 - 📫 How to reach me:  My school email - <a href="mailto:BADimov21@codingburgas.bg">BADimov21@codingburgas.bg </a> or through my <a href="https://www.linkedin.com/in/bozhidar-dimov-a5b31223a">LinkedIn account</a>.
 - 😄 Pronouns: He/Him
@@ -40,11 +40,18 @@
        <a href="https://reactnative.dev/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="75" weight="75" alt="React Native">
        <a href="https://angular.dev" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" height="75" weight="75" alt="Angular">
        <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" ><img src="https://github.com/user-attachments/assets/d3afdc32-6f87-4528-a6e6-433d6439b969" height="75" weight="75" alt="ASP.NET">
+       <a href="https://expo.dev/"><img src="https://github.com/user-attachments/assets/723302e5-6541-4c31-87ad-90e882b15edd" height="75" weight="75" alt="Expo">
+       <a href="https://expressjs.com/"><img src="https://github.com/user-attachments/assets/9e4ba89a-2d21-46da-b93f-5311d424f79c" height="75" weight="75" alt="Express">
+       <a href="https://nodejs.org/en"><img src="https://github.com/user-attachments/assets/3ef86353-5d80-40f2-86a4-53adb152a82f" height="75" weight="75" alt="Node.js">
        <a href="https://learn.microsoft.com/en-us/ef/core/" ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUmT9_GRWOBCrONVeHQKEWZ667kVPjYjYYw&s" height="75" weight="75" alt="EF Core">
-       <a href="https://getbootstrap.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height="75" weight="75" alt="Bootstrap">
-       <a href="https://en.m.wikipedia.org/wiki/SQL" > <img src="https://miro.medium.com/v2/resize:fit:787/1*IYEvbY1IRNoXRTuAIWpERQ.png" height="75" weight="75" alt="SQL"> </a>
-       <a href="https://www.arduino.cc" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" height="75" weight="75" alt="Arduino"> </a>
-       <a href="https://en.wikipedia.org/wiki/HTML5" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" height="75" weight="75" alt="HTML5"> </a>
+       <a href="https://tailwindcss.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" height="75" weight="75" alt="Tailwind CSS">
+       <a href="https://www.nativewind.dev/"><img src="https://github.com/user-attachments/assets/0ae6c15c-9c17-4e06-8f9e-18d5b2530396" height="75" weight="75" alt="Nativewind">
+       <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" height="75" weight="75" alt="Blazor">
+       <a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height="75" weight="75" alt="Bootstrap">
+       <a href="https://en.m.wikipedia.org/wiki/SQL" > <img src="https://miro.medium.com/v2/resize:fit:787/1*IYEvbY1IRNoXRTuAIWpERQ.png" height="75" weight="75" alt="SQL">
+       <a href="https://www.arduino.cc"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" height="75" weight="75" alt="Arduino">
+       <a href="https://www.raylib.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" height="75" weight="75" alt="Raylib">
+       <a href="https://en.wikipedia.org/wiki/HTML5" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" height="75" weight="75" alt="HTML5">
        <a href="https://en.wikipedia.org/wiki/CSS" ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" height="75" weight="75" alt="CSS3">
        <a href="https://sass-lang.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" height="75" weight="75" alt="SASS">
        </a>
@@ -54,15 +61,16 @@
        <summary><h3>🛠️Software / Programs / DBMS:</h3></summary>
        <a href="https://visualstudio.microsoft.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" height="75" weight="75" alt="Visual Studio 2022">
        <a href="https://code.visualstudio.com/" ><img src="https://github.com/YVSimeonova19/YVSimeonova19/blob/master/images/vscode.png?raw=true" height="75" weight="75" alt="Visual Studio Code">
-       <a href="https://www.jetbrains.com/clion/" ><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83cc8bd2-13e2-4d07-a794-2b855046a0ac.png" height="75" weight="75" alt="CLion by JetBrains">
+       <a href="https://www.jetbrains.com/clion/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/800px-Clion.svg.png" height="75" weight="75" alt="CLion by JetBrains">
        <a href="https://www.jetbrains.com/rider/" ><img src="https://codeopinion.com/wp-content/uploads/2017/08/logo.png" height="75" weight="75" alt="Rider by JetBrains">
        <a href="https://www.jetbrains.com/datagrip/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/2048px-DataGrip.svg.png" height="75" weight="75" alt="DataGrip by JetBrains">
        <a href="https://www.qt.io/product/development-tools" ><img src="https://anturis.com/wp-content/uploads/2022/11/Qt-Creator-Logo.png" height="75" weight="75" alt="Qt Creator">
        <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms"><img src="https://github.com/user-attachments/assets/bbaa7933-5025-4dce-a5dc-314ebec36367" height="75" weight="75" alt="SQL Server Management Studio 20">
-       <a href="https://www.microsoft.com/en-us/sql-server" > <img src="https://github.com/user-attachments/assets/9698c249-4877-4998-a893-fb819710732f" height="75" weight="75" alt="Microsoft SQL Server"> </a>
+       <a href="https://www.microsoft.com/en-us/sql-server" > <img src="https://github.com/user-attachments/assets/9698c249-4877-4998-a893-fb819710732f" height="75" weight="75" alt="Microsoft SQL Server">
        <a href="https://www.mysql.com/"><img src="https://github.com/user-attachments/assets/0957620a-8208-4b41-b240-d09f87283c97" height="75" weight="75" alt="MySQL">
        <a href="https://www.postgresql.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" height="75" weight="75" alt="PostgreSQL">
        <a href="https://www.heidisql.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HeidiSQL_logo_image.png/800px-HeidiSQL_logo_image.png" height="75" weight="75" alt="HeidiSQL">
+       <a href="https://expo.dev/go"><img src="https://github.com/user-attachments/assets/121672b1-4d93-4588-b6de-d194d011f33a" height="75" weight="75" alt="Expo Go">
        <a href="https://azure.microsoft.com/en-us/"><img src="https://swimburger.net/media/ppnn3pcl/azure.png" height="75" weight="75" alt="MS Azure">
        <a href="https://firebase.google.com/"><img src="https://www.gstatic.com/devrel-devsite/prod/v0e3f58103119c4df6fb3c3977dcfd0cb669bdf6385f895761c1853a4b0b11be9/firebase/images/touchicon-180.png" height="75" weight="75" alt="Firebase by Google">
        <a href="https://www.arduino.cc/en/software"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" height="75" weight="75" alt="Arduino IDE">
@@ -70,7 +78,6 @@
        <a href="https://github.com/" ><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" height="75" weight="75" alt="GitHub">
        <a href="https://replit.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/330px-Repl.it_logo.svg.png" height="75" weight="75" alt="Replit">
        <a href="https://www.lucidchart.com/" ><img src="https://cdn-cashy-static-assets.lucidchart.com/app/webroot/favicons/favicon_chart_v5.ico" height="75" weight="75" alt="Lucidchart">
-       <a href="https://www.codechef.com/" ><img src="https://github.com/user-attachments/assets/45b7bc77-6cfd-41aa-ba9e-e57c2319715f" height="75" weight="75" alt="CodeChef">
        <a href="https://git-scm.com/" ><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="75" weight="75" alt="Git">
        <a href="https://en.wikipedia.org/wiki/Microsoft_Office"><img src="https://www.freepnglogos.com/uploads/microsoft-office-png-logo/microsoft-office-2013-symbol-logo-png-6.png" height="75" weight="75" alt="MS Office">
        </a>
