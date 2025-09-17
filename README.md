@@ -51,7 +51,7 @@
 </details>
        
 <details>
-       <summary><h3>🛠️Software / Programs:</h3></summary>
+       <summary><h3>🛠️Software / Programs / DBMS:</h3></summary>
        <a href="https://visualstudio.microsoft.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" height="75" weight="75" alt="Visual Studio 2022">
        <a href="https://code.visualstudio.com/" ><img src="https://github.com/YVSimeonova19/YVSimeonova19/blob/master/images/vscode.png?raw=true" height="75" weight="75" alt="Visual Studio Code">
        <a href="https://www.jetbrains.com/clion/" ><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/83cc8bd2-13e2-4d07-a794-2b855046a0ac.png" height="75" weight="75" alt="CLion by JetBrains">
@@ -61,6 +61,7 @@
        <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms"><img src="https://github.com/user-attachments/assets/bbaa7933-5025-4dce-a5dc-314ebec36367" height="75" weight="75" alt="SQL Server Management Studio 20">
        <a href="https://www.microsoft.com/en-us/sql-server" > <img src="https://github.com/user-attachments/assets/9698c249-4877-4998-a893-fb819710732f" height="75" weight="75" alt="Microsoft SQL Server"> </a>
        <a href="https://www.mysql.com/"><img src="https://github.com/user-attachments/assets/0957620a-8208-4b41-b240-d09f87283c97" height="75" weight="75" alt="MySQL">
+       <a href="https://www.postgresql.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" height="75" weight="75" alt="PostgreSQL">
        <a href="https://www.heidisql.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HeidiSQL_logo_image.png/800px-HeidiSQL_logo_image.png" height="75" weight="75" alt="HeidiSQL">
        <a href="https://azure.microsoft.com/en-us/"><img src="https://swimburger.net/media/ppnn3pcl/azure.png" height="75" weight="75" alt="MS Azure">
        <a href="https://firebase.google.com/"><img src="https://www.gstatic.com/devrel-devsite/prod/v0e3f58103119c4df6fb3c3977dcfd0cb669bdf6385f895761c1853a4b0b11be9/firebase/images/touchicon-180.png" height="75" weight="75" alt="Firebase by Google">
