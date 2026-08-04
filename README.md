@@ -1,12 +1,12 @@
 <h1 align="center"> Hi there 👋, I'm Bozhidar, and here are some things about me: </h1>
 
-- 🔭 Senior at <a href="https://www.codingburgas.bg/"> @codingburgas </a>
-- 🌱 I’m currently learning C#, Haskell, programming, software development & engineering in general.
+- 🔭 HBO-ICT student at <a href="https://www.saxion.edu"> Saxion UAS </a>
+- 🌱 I’m currently learning all kinds of different sorcery. ✨🪄
 - 💬 You can ask me everything, I'll be glad to share!
-- 📫 How to reach me:  My school email - <a href="mailto:BADimov21@codingburgas.bg">BADimov21@codingburgas.bg </a> or through my <a href="https://www.linkedin.com/in/bozhidar-dimov-a5b31223a">LinkedIn account</a>.
+- 📫 How to reach me:  My email - <a href="mailto:contact.bozhidardimov@gmail.com">contact.bozhidardimov@gmail.com</a> or through my <a href="https://www.linkedin.com/in/bozhidar-dimov-a5b31223a">LinkedIn account</a>.
 - 😄 Pronouns: He/Him
 - ⚡ Goals: I want to become a professional software engineer.
-- 😀 Status: Diverse. <br>
+- 😀 Status: Excited. <br>
 
 <h3 align="center">For more exciting updates and projects happening on my GitHub, you can follow me to stay tuned and star my repositories to support me and my work. You can also visit my LinkedIn profile, which is linked down below to see my skills and experience. Thank you! ❤️</h3>
 <br>
